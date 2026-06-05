@@ -211,7 +211,7 @@ DHCP legítimo. Cualquier respuesta DHCP que llegue por un puerto no confiable
 
 | Archivo | Descripción |
 |---|---|
-|<img width="973" height="547" alt="image" src="https://github.com/user-attachments/assets/c7094bf2-c382-4189-af33-f6a0bddb82c3" />|| Topología en EVE-NG |
+|<img width="973" height="547" alt="image" src="https://github.com/user-attachments/assets/c7094bf2-c382-4189-af33-f6a0bddb82c3" />||Topología en EVE-NG |
 | <img width="933" height="518" alt="image" src="https://github.com/user-attachments/assets/e783b02f-ce61-4364-8738-6f3e646ad5d3" />| Script recibiendo DHCP Discover y enviando Offer falso |
 | <img width="319" height="111" alt="image" src="https://github.com/user-attachments/assets/8d3f38e2-8e2e-4e9d-88ec-bd759182a75a" />| PC1 ejecutando comando dhcp |
 |<img width="865" height="455" alt="image" src="https://github.com/user-attachments/assets/181fd04d-c668-425d-b62c-3b99ed764495" /> | DHCP Snooping activo en SW-CORE |
